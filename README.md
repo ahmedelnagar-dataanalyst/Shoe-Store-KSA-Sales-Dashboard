@@ -33,6 +33,8 @@ Power BI	Dashboard & visualizations
 DAX	Calculated measures
 ---
 🗄️ Data Model (Star Schema)
+<img width="1903" height="892" alt="Schema" src="https://github.com/user-attachments/assets/33130add-3707-447d-b208-c135ef3df225" />
+
 ```
 vw_dim_branches ──┐
 vw_dim_shoes    ──┼──► vw_fact_sales
