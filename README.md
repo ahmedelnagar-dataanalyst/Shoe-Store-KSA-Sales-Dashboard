@@ -2,6 +2,10 @@
 An end-to-end data analytics project analyzing sales performance for a shoe retail business operating across three branches in Saudi Arabia (Riyadh, Jeddah, and Khobar).
 ---
 📊 Dashboard Pages
+<img width="1322" height="745" alt="Screenshot" src="https://github.com/user-attachments/assets/95c0667e-a29c-42b0-8099-51d6d9c19341" />
+<img width="1322" height="743" alt="Screenshot 2" src="https://github.com/user-attachments/assets/8fff870a-8170-4485-bcc8-55e90330c9d5" />
+<img width="1321" height="742" alt="Screenshot 3" src="https://github.com/user-attachments/assets/827ef7b9-2c06-4b05-9e72-8845cb25ed42" />
+
 1. Sales Overview
 Total Revenue, Orders, Avg Order Value, Units Sold, Top Month
 Monthly revenue trend
